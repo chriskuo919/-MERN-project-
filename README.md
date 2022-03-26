@@ -1,16 +1,17 @@
-# 相片網站
+# 選課學習系統
 ![Index page](./1.png)
 ![Index page](./2.png)
 ![Index page](./3.png)
 
 ### 功能
 
-- 顯示相片
-- 載入相片
-- 搜索相片
+- 學生註冊後可選課
+- 教師註冊後可新增課程
+- 可搜尋課程與修課人數
 
 ## 開發工具
 
-- react 17.0.1
-- react-dom 17.0.1
-- react-router-dom 5.2.0
+- React.js
+- Node.js
+- MongoDB
+- Express
